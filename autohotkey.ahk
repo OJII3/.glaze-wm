@@ -1,1 +1,1 @@
-!1::Run % "%windir%\Sysnative\SystemSettingsAdminFlows.exe EnableTouchPad " (touchpadEnabled := !touchpadEnabled)
+^!l::Run % "SystemSettingsAdminFlows.exe EnableTouchPad " (touchpadEnabled := !touchpadEnabled)
